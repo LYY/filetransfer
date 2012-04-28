@@ -7,4 +7,4 @@ version: 0.0.1
   
   It's based on ruby. It used to transfer file directly throw the web.
   
-  I just what it to cross my office firewall which is blocked exe file or a file which is from a ftp service.
+  I just want it to cross my office firewall which is blocked exe file or a file which is from a ftp service.
