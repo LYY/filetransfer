@@ -1,0 +1,5 @@
+﻿#proxy:
+#  addr: 192.168.16.187
+#  port: 8080
+#  user: liuyuyu
+#  pass: 33333333
