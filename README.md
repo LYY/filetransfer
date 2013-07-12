@@ -1,6 +1,9 @@
 # Filetransfer
 
-version: 0.0.1
+version: 0.0.2
+
+## CHANGELOG
+# can parse redirect download url
 
 ## what is filetransfer
   filetransfer is my first sinatra app on cloudfoundry.com. 
