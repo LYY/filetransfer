@@ -1,0 +1,8 @@
+---
+applications:
+- name: filetransfer
+  memory: 128M
+  instances: 1
+  host: filetransfer
+  domain: cfapps.io
+  path: .
